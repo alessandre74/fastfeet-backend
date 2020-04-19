@@ -1,4 +1,4 @@
-### DESAFIO FINAL ROCKETSEAT
+### DESAFIO FINAL FASTFEET
 
 Depois de fazer um clone dos projetos, é necessário ter o node.js, yarn postgres e redis instalados.
 
