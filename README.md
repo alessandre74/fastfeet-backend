@@ -1,6 +1,4 @@
-                                      **DESAFIO FINAL ROCKETSEAT**
-                                      
-                                      # This is an <h1> tag
+                                      ####DESAFIO FINAL ROCKETSEAT
 
 Depois de fazer um clone dos projetos, é necessário ter o node.js, yarn postgres e redis instalados.
 
