@@ -38,9 +38,3 @@ por isso criei um novo projeto expo e transferi todo o projeto já feito porém 
 adaptações para funcionar.
 
 ```
-
-
-
-
-
-
