@@ -1,8 +1,8 @@
-### DESAFIO FINAL FASTFEET
+### Desafio finalL Fastfeet
 
 Depois de fazer um clone dos projetos, é necessário ter o node.js, yarn postgres e redis instalados.
 
-**BACKEND**
+**Backend**
 
 ````
 Configurar o arquivo .env conforme o .envexample que segue junto com projeto.
@@ -11,7 +11,7 @@ Executar os comandos a abaixo:
 cd FastFeet/backend yarn install yarn sequelize db:migrate yarn sequelize db:seed:all yarn dev
 ````
 
-**FRONTEND**
+**Frontend**
 
 ````
 Executar os comandos abaixo:
@@ -19,7 +19,7 @@ cd FastFeet/frontend
 yarn install yarn start
 ````
 
-**MOBILE**
+**Mobile**
 
 ````
 Instalar o expo e executar os comandos abaixo
